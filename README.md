@@ -1,0 +1,3 @@
+# Virtual Floor Plan Demo
+
+This program shows how a set of 2 dimensional objects can be randomly chosen and randomly laid out within a set area. The demo was originally a proof of concept for a mmorpg game called Blue Exile, it was designed to show how a city might grow as players gained real estate. All the files necessary to run the demo are contained in VFPdemoEXE folder.The program can be run from the VFPdemoEXE folder with either the BlueExile2D.bat file for Windows or by java -jar BlueExile2D.jar from the shell prompt. 
